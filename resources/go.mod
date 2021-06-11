@@ -1,1 +1,1 @@
-module github.com/vishnukarthikl/go-import-size-test/resources
+module github.com/vishnukarthikl/go-import-size-test/something-random
